@@ -1,0 +1,43 @@
+[
+  {
+    "endpoint": "person-data",
+    "url": "https://www.linkedin.com/in/example-user",
+    "fullName": "Example User",
+    "headline": "Sample Headline | Example Role",
+    "location": "Sample City, Country",
+    "about": "This is a sample person profile used to demonstrate the structure of the person-data response.",
+    "currentPositions": [
+      {
+        "title": "Senior Example Engineer",
+        "companyName": "Example Corp",
+        "companyId": 123456,
+        "location": "Sample City, Country",
+        "startDate": "2021-01-01"
+      }
+    ],
+    "pastPositions": [
+      {
+        "title": "Example Engineer",
+        "companyName": "Old Example Inc",
+        "startDate": "2018-01-01",
+        "endDate": "2020-12-31"
+      }
+    ],
+    "education": [
+      {
+        "schoolName": "Example University",
+        "degree": "B.Sc. Computer Science",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-30"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "LinkedIn Automation"
+    ],
+    "followersCount": 1500,
+    "profilePictureUrl": "https://media.example.com/profile.jpg",
+    "timestamp": 1680789311000
+  }
+]
