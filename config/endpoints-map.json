@@ -1,0 +1,23 @@
+{
+  "person-data": "person-data",
+  "multi-person-data": "multi-person-data",
+  "company-data": "company-data",
+  "multi-company-data": "multi-company-data",
+  "person-posts": "person-posts",
+  "company-posts": "company-posts",
+  "search-jobs": "search-jobs",
+  "search-posts": "search-posts",
+  "search-people": "search-people",
+  "search-company": "search-company",
+  "post-comments": "post-comments",
+  "post-reactions": "post-reactions",
+  "post-reshares": "post-reshares",
+  "suggestion-company": "suggestion-company",
+  "suggestion-person": "suggestion-person",
+  "suggestion-function": "suggestion-function",
+  "suggestion-industry": "suggestion-industry",
+  "suggestion-location": "suggestion-location",
+  "suggestion-school": "suggestion-school",
+  "suggestion-service-category": "suggestion-service-category",
+  "company-employee-count-per-skill": "company-employee-count-per-skill"
+}
