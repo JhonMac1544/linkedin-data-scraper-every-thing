@@ -1,0 +1,28 @@
+[
+  {
+    "endpoint": "search-posts",
+    "postId": "urn:li:activity:1234567890",
+    "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1234567890",
+    "postText": "We just shipped a major update to our LinkedIn data scraper demo.",
+    "postMedia": [],
+    "postCreatedAt": "2024-01-10T09:00:00.000Z",
+    "postTimestamp": 1704877200000,
+    "likesCount": 120,
+    "commentsCount": 14,
+    "sharesCount": 7,
+    "searchQuery": "LinkedIn scraper"
+  },
+  {
+    "endpoint": "search-posts",
+    "postId": "urn:li:activity:2345678901",
+    "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:2345678901",
+    "postText": "Breaking down how to structure LinkedIn automation projects end-to-end.",
+    "postMedia": [],
+    "postCreatedAt": "2024-01-09T17:30:00.000Z",
+    "postTimestamp": 1704821400000,
+    "likesCount": 85,
+    "commentsCount": 9,
+    "sharesCount": 3,
+    "searchQuery": "LinkedIn scraper"
+  }
+]
