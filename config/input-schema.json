@@ -1,0 +1,65 @@
+{
+  "person-data": {
+    "required": ["url"]
+  },
+  "multi-person-data": {
+    "required": ["urls"]
+  },
+  "company-data": {
+    "required": ["url"]
+  },
+  "multi-company-data": {
+    "required": ["urls"]
+  },
+  "person-posts": {
+    "required": ["url"]
+  },
+  "company-posts": {
+    "required": ["url"]
+  },
+  "search-jobs": {
+    "required": []
+  },
+  "search-posts": {
+    "required": []
+  },
+  "search-people": {
+    "required": []
+  },
+  "search-company": {
+    "required": []
+  },
+  "post-comments": {
+    "required": ["postId"]
+  },
+  "post-reactions": {
+    "required": ["postId"]
+  },
+  "post-reshares": {
+    "required": ["postId"]
+  },
+  "suggestion-company": {
+    "required": []
+  },
+  "suggestion-person": {
+    "required": []
+  },
+  "suggestion-function": {
+    "required": []
+  },
+  "suggestion-industry": {
+    "required": []
+  },
+  "suggestion-location": {
+    "required": []
+  },
+  "suggestion-school": {
+    "required": []
+  },
+  "suggestion-service-category": {
+    "required": []
+  },
+  "company-employee-count-per-skill": {
+    "required": ["companyUrl", "skillKeywords"]
+  }
+}
