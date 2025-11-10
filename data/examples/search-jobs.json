@@ -1,0 +1,32 @@
+[
+  {
+    "endpoint": "search-jobs",
+    "jobId": "1234567890",
+    "jobTitle": "Senior Software Engineer",
+    "jobCompanyName": "Example Company",
+    "jobCompanyId": 123456,
+    "jobLocation": "Remote",
+    "jobWorkplaceType": "Remote",
+    "jobEmploymentType": "Full-time",
+    "jobPostedAt": "2024-01-15T10:00:00.000Z",
+    "jobPostedTimestamp": 1705312800000,
+    "jobEasyApply": true,
+    "searchQuery": "Senior Software Engineer",
+    "page": 1
+  },
+  {
+    "endpoint": "search-jobs",
+    "jobId": "2345678901",
+    "jobTitle": "Backend Engineer",
+    "jobCompanyName": "Sample Labs",
+    "jobCompanyId": 789012,
+    "jobLocation": "Berlin, Germany",
+    "jobWorkplaceType": "Hybrid",
+    "jobEmploymentType": "Full-time",
+    "jobPostedAt": "2024-01-13T08:30:00.000Z",
+    "jobPostedTimestamp": 1705134600000,
+    "jobEasyApply": false,
+    "searchQuery": "Senior Software Engineer",
+    "page": 1
+  }
+]
