@@ -1,0 +1,17 @@
+[
+  {
+    "endpoint": "company-data",
+    "url": "https://www.linkedin.com/company/example-company",
+    "companyName": "Example Company",
+    "companyWebsite": "https://www.example.com",
+    "companyIndustry": "Information Technology & Services",
+    "companySize": "51-200 employees",
+    "companyFoundedYear": 2015,
+    "companyHeadquarters": "Sample City, Country",
+    "followersCount": 4200,
+    "description": "Example Company is a fictional technology company used to illustrate the structure of company-data responses.",
+    "raw": {
+      "urn": "urn:li:organization:123456"
+    }
+  }
+]
