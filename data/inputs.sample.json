@@ -1,0 +1,6 @@
+{
+  "endpoint": "person-data",
+  "body": {
+    "url": "https://www.linkedin.com/in/example-user"
+  }
+}
