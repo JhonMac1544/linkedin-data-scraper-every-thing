@@ -1,0 +1,36 @@
+{
+  "name": "linkedin-data-scraper-every-thing",
+  "version": "1.0.0",
+  "description": "All-in-one LinkedIn data scraper interface with pluggable endpoints for people, companies, posts, jobs, searches, and engagement.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "linkedin",
+    "scraper",
+    "automation",
+    "jobs",
+    "people",
+    "companies",
+    "posts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
