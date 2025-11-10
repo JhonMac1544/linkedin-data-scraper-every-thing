@@ -1,0 +1,6 @@
+{
+  "pageSize": 10,
+  "maxBatchSize": 50,
+  "logLevel": "info",
+  "requestTimeoutMs": 15000
+}
